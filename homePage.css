@@ -1,0 +1,26 @@
+body{
+	background-color:Linen; 
+}
+header{
+	background-color: #66CCFF;
+	margin-left: auto;
+	min-height: 100px;
+	margin-right: 0px;
+	margin-top: 25px;
+}
+.sec {
+	background-color: #FF3399;
+	margin-left: auto;
+	margin-top: 50px;
+	min-height: 40px;
+}
+p {
+	font-size: 20px;
+	margin-left: 180px;
+
+} 
+h1 {
+	font-size: 30px;
+	display: inline;
+	color: black;
+}
