@@ -2,8 +2,8 @@ body{
 	background-color:Linen; 
 }
 header{
-	background-color: silver;
-	margin-left: auto;
+	background-image: url("header.jpg");
+	margin-left: 0;
 	min-height: 100px;
 	margin-right: 0px;
 	margin-top: 25px;
@@ -22,8 +22,8 @@ p {
 
 } 
 h1 {
-	font-size: 30px;
-	display: inline;
+	font-size: 50px;
+	display: inline-block;
 	color: black;
 }
 #middle{
@@ -38,7 +38,18 @@ h1 {
 }
 footer {
 	background-color: #66CCFF;
-	/*margin-bottom: 0px;*/
 	min-height: 160px;
 	text-align: center;
+}
+ul.social-icon {
+	margin: 0px 0px 10px 14px;
+	padding: 0;
+	width: auto; 
+}
+ul.social-icon li.facebook{
+	background-position: 0px -121px;
+	margin-right: 0px;
+}
+ul.social-icon li {
+	background-image: social.png;
 }
