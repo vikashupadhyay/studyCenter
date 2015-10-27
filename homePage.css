@@ -2,7 +2,7 @@ body{
 	background-color:Linen; 
 }
 header{
-	background-color: #66CCFF;
+	background-color: silver;
 	margin-left: auto;
 	min-height: 100px;
 	margin-right: 0px;
@@ -16,11 +16,29 @@ header{
 }
 p {
 	font-size: 20px;
-	margin-left: 180px;
+	padding: 10px 10px 10px 10px;
+	margin-left: 160px;
+	margin-left: 200px;
 
 } 
 h1 {
 	font-size: 30px;
 	display: inline;
 	color: black;
+}
+#middle{
+	height: 500px;
+	margin-right: 0px;
+	margin-top: 60px;
+}
+
+#middle .image{
+	margin-left: 200px;
+
+}
+footer {
+	background-color: #66CCFF;
+	/*margin-bottom: 0px;*/
+	min-height: 160px;
+	text-align: center;
 }
