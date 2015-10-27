@@ -22,6 +22,7 @@ p {
 
 } 
 h1 {
+	padding-left: 20px;
 	font-size: 50px;
 	display: inline-block;
 	color: black;
@@ -29,17 +30,23 @@ h1 {
 #middle{
 	height: 500px;
 	margin-right: 0px;
-	margin-top: 60px;
+	margin-top: 20px;
 }
 
 #middle .image{
-	margin-left: 200px;
+	margin-left: 100px;
 
 }
-#middle .image:hover {
-	background-color: red;
-	width: 200px;
-	height: 150px;
+
+pre {
+	font-size: 25px;
+	padding-left: 100px;
+	font-family: cursive;
+}
+
+img:hover {
+	opacity: 0.8;
+	background-size: 
 }
 footer {
 	background-color: #66CCFF;
