@@ -28,7 +28,7 @@ p {
 #middleRow {
     background-image: url("bg.jpg");
     position: absolute;
-    left: 200;
+    left: 200px;
     top: 130px;
     display:flex;
     overflow:scroll;
@@ -41,8 +41,6 @@ p {
 }
 
 #middleRow .image {
-
-	display: inline-block;
 	margin: 0px 40px 8px 5px;
 }
 

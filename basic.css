@@ -15,6 +15,8 @@ header .image {
 }
 
 #middle {
+	padding-left: 20px;
+	padding-top: 10px;
 	margin: 20px 250px 0px 250px;
 	background-color: linen;
 }
@@ -28,7 +30,10 @@ header .image {
 	width: 200px;
 }
 
-form {
-	float: right;
-	padding: 40px;
+
+#box {
+	padding-left: 10px;
+	border: solid 1px black;
+	width: 800px;
+	height: 1300px;
 }
