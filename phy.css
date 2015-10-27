@@ -1,0 +1,28 @@
+h1.topic {
+    background-image: url("hb.jpg");
+    margin-right: 0px;
+    padding: 10px;
+    font-family: cursive;
+    color: brown;
+}
+.nav{
+	padding: 20px;
+	margin-top: 38px;
+	width: 150px;
+	height: 590px;
+	float: left;
+	background-image: url("hb.jpg")
+}
+p {
+	padding-left: 15px;
+	font-family: fantasy;
+	display: inline-block;
+	font-size: 20px;
+
+}
+#middleRow {
+	background-image: url("bg.jpg");
+	position: absolute;
+	left: 200px;
+	top:130px;
+}
