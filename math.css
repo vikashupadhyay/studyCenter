@@ -1,25 +1,32 @@
 h1.topic {
     background-image: url("hb.jpg");
-    width: 1400px;
     padding: 10px;
+    margin-left: 0px;
     margin-right: 0px;
     font-family: cursive;
     color: brown;
 }
-
+h2.topic{
+    text-align: center;
+    background-image: url("hb.jpg");
+    font-family: cursive;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-size: 30px;
+}
 body {
     margin: 0px;
 }
 
 p {
 	padding-left: 15px;
-	font-family: fantasy;
+	font-family: cursive;
 }
 
 
 .leftRow {
 	padding: 20;
-	margin-top: 38px;
+	margin-top: 60px;
     margin-right: 0px;
 	width: 150px;
 	height: 560px;
@@ -31,12 +38,12 @@ p {
     background-image: url("bg.jpg");
     position: absolute;
     left: 200px;
-    top: 130px;
+    top: 150px;
     margin-top: 1px;
     border: solid 1px black;
     width: 1100px;
     height: 600px;
-    margin-left: 30px;
+    margin-left: 100px;
     float: left;
 }
 
@@ -47,4 +54,10 @@ p {
 img:hover {
 	opacity:0.8;
 }
+.logo {
+    text-align: right;
+    margin-top: 720px;
+    margin-right: 20px;
+}
+
 
