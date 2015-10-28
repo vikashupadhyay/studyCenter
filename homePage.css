@@ -1,12 +1,13 @@
 body{
+	margin: 0px;
 	background-color:Linen; 
 }
 header{
 	background-image: url("header.jpg");
-	margin-left: 0;
-	min-height: 100px;
+	margin-left: 0px;
+	min-height: 150px;
 	margin-right: 0px;
-	margin-top: 25px;
+	margin-top: 0px;
 }
 .sec {
 	background-color: #FF3399;
@@ -44,12 +45,16 @@ pre {
 	font-family: cursive;
 }
 
+img {
+	padding: 5px 0px 10px 10px;
+}
+
 img:hover {
 	opacity: 0.8;
-	background-size: 
 }
+
 footer {
-	background-color: #66CCFF;
-	min-height: 160px;
-	text-align: center;
+	min-height: 150px;
+	background-image: url("header.jpg");
+	padding: 10px 0px 30px 10px;
 }

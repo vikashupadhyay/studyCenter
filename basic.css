@@ -30,6 +30,11 @@ header .image {
 	width: 200px;
 }
 
+#mulTable {
+	padding-left: 15px;
+	height: 350px;
+	width: 750px;
+}
 
 #box {
 	padding-left: 10px;
